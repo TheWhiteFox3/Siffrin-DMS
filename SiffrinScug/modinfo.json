@@ -1,0 +1,12 @@
+{
+	"id": "sif_ISAT.scug",
+	"name": "Siffrin DMS",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Vigaro",
+	"description": "In Stars And Time DMS :3",
+	"requirements": ["dressmyslugcat"],
+	"requirements_names": ["Dress My Slugcat"],
+	"checksum_override_version": false,
+	"tags": ["Cosmetics"]
+}
